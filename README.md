@@ -17,7 +17,8 @@ I'm a Master in Physics passionate about Data Science and Machine Learning. At 2
 - [Project 3](<project-link>)
 
 ## 📫 How to Reach Me
-You can find and contact me via [LinkedIn](https://www.linkedin.com/in/rafael-sánchez-cedillo-75a50221b) or send me an email at `<your-email>`.
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sánchez-cedillo-75a50221b)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rscedillo35@gmail.com)
 
 ---
 
