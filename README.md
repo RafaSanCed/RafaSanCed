@@ -33,8 +33,6 @@ I'm a Master in Physics passionate about Data Science and Machine Learning. At 2
 <img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
 <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   
 </p>
