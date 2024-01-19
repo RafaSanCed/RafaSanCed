@@ -1,4 +1,4 @@
-# Hello, I'm Rafael Sánchez Cedillo 👋
+# Hello, I'm Rafael 👋
 
 ![Portada](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/c027f5af-808e-4030-bd38-19f84505ae8d)
 
