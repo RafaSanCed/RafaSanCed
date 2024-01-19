@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Sánchez Cedillo 👋
 
-![Rafael Sánchez Cedillo](<image-path>)
+![Portada](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/c027f5af-808e-4030-bd38-19f84505ae8d)
 
 ## 🚀 About Me
 I'm a Master in Physics passionate about Data Science and Machine Learning. At 24, I have developed skills in data analysis and predictive modeling, always seeking to apply this knowledge to solve complex problems in the tech world. My focus is on uncovering patterns and providing valuable insights through advanced machine learning techniques.
