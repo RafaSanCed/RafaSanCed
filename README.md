@@ -2,6 +2,8 @@
 
 ![image](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/d93584f7-2649-4665-a3b2-7a2ef0ec068c)
 
+[![HitCount](http://hits.dwyl.com/RafaSanCed/RafaSanCed.svg)](http://hits.dwyl.com/RafaSanCed/RafaSanCed)
+ <img src="https://komarev.com/ghpvc/?username=RafaSanCed">
 ## 🚀 About Me
 I'm a Master in Physics passionate about Data Science and Machine Learning. At 24, I have developed skills in data analysis and predictive modeling, always seeking to apply this knowledge to solve complex problems in the tech world. My focus is on uncovering patterns and providing valuable insights through advanced machine learning techniques.
 
