@@ -38,5 +38,11 @@ I'm a Master in Physics passionate about Data Science and Machine Learning. At 2
 <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   
 </p>
+<h1 align="center">Editors Systems</h1>
+<p align="center">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
+<img src="http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff"/>
+ </p>
+<hr/>
 
 Thank you for visiting my profile! Feel free to check out my projects and connect with me.
