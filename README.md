@@ -13,8 +13,8 @@ I'm a Master in Physics passionate about Data Science and Machine Learning. At 2
 
 ## 🌟 Highlighted Projects
 - [Tesis de Maestría 📓](https://github.com/RafaSanCed/Tesis-Maestria)
-- [Stellar Clasification 💫](<project-link>)
-- [Detection of Distraction by electroencephalograms 🧠](<project-link>)
+- [Stellar Clasification 💫](https://github.com/RafaSanCed/Clasificacion-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia)
+- [Detection of Distraction by electroencephalograms 🧠](https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sánchez-cedillo-75a50221b)
