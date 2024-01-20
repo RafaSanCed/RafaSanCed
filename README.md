@@ -33,15 +33,34 @@ I'm a Master in Physics passionate about Data Science and Machine Learning. At 2
 <img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+ </p>
+
+<br>
+<h1 align="center">Machine Learning</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+ </p>
+
+<h1 align="center">Development Tools</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
   
 </p>
 <h1 align="center">Editors Systems</h1>
 <p align="center">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
-<img src="http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
  </p>
 <hr/>
 
