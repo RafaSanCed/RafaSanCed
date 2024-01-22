@@ -5,13 +5,20 @@
 [![HitCount](http://hits.dwyl.com/RafaSanCed/RafaSanCed.svg)](http://hits.dwyl.com/RafaSanCed/RafaSanCed)
  <img src="https://komarev.com/ghpvc/?username=RafaSanCed">
 ## 🚀 About Me
-I'm a Master in Physics passionate about Data Science and Machine Learning. At 24, I have developed skills in data analysis and predictive modeling, always seeking to apply this knowledge to solve complex problems in the tech world. My focus is on uncovering patterns and providing valuable insights through advanced machine learning techniques.
+
+I am a Master in Physics passionate about Data Science and Machine Learning. At the age of 24, I have developed skills in data analysis and predictive modeling, always seeking to apply this knowledge to solve complex problems in the tech world. My focus is on uncovering patterns and providing valuable insights through advanced machine learning techniques.
+
+One of my primary motivations is the belief that through the use of artificial intelligence, we can uncover patterns that are difficult to detect through conventional theories or models of the universe, due to the high complexity of the world around us. I am convinced that we are dealing with highly complex, completely non-linear models, and that neural networks have the potential to help us model these intricate problems. This passion drives me to continually explore new frontiers at the intersection of physics and artificial intelligence, always looking for ways to apply these advanced approaches to make significant breakthroughs in the field.
+
 
 ## 💡 Skills and Experience
-- **Data Science:** Analysis and processing of large data sets.
-- **Machine Learning:** Development and implementation of predictive models.
-- **Problem Solving:** Ability to tackle and resolve complex technical challenges.
-- **Adaptability:** Skillful in adjusting and evolving in the dynamic field of technology.
+- **Data Science:** Analysis and processing of large datasets.
+- **Machine Learning:** 
+   - **Neural Networks:** Expert in the development and implementation of advanced neural network models, including deep, convolutional, and recurrent neural networks.
+   - **Predictive Modeling:** Designing and applying machine learning algorithms for predicting trends and behaviors in complex data.
+- **Problem Solving:** Ability to tackle and resolve complex technical challenges, particularly in modeling nonlinear and highly complex systems.
+- **Adaptability:** Skilled in adjusting and evolving in the dynamic field of technology, with a particular focus on applying artificial intelligence to uncover hidden patterns in complex data.
+
 
 ## 🌟 Highlighted Projects
 - [Tesis de Maestría](https://github.com/RafaSanCed/Tesis-Maestria) 📓
