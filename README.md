@@ -43,7 +43,8 @@ I'm currently engaged in:
 <p align="center">
   <a href="https://github.com/RafaSanCed/Tesis-Maestría">Tesis de Maestría 📓</a><br>
   <a href="https://github.com/RafaSanCed/Clasificación-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia">Stellar Classification 💫</a><br>
-  <a href="https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms">Detection of Distraction by Electroencephalograms 🧠</a>
+  <a href="https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms">Detection of Distraction by Electroencephalograms 🧠</a><br>
+  <a href="https://github.com/RafaSanCed/dog-breeds-embedding">Dog Breeds Embedding Visualization 🐶📊</a>
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
