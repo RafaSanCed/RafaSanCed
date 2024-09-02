@@ -45,6 +45,8 @@ I'm currently engaged in:
   <a href="https://github.com/RafaSanCed/Clasificación-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia">Stellar Classification 💫</a><br>
   <a href="https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms">Detection of Distraction by Electroencephalograms 🧠</a><br>
   <a href="https://github.com/RafaSanCed/dog-breeds-embedding">Dog Breeds Embedding Visualization 🐶📊</a>
+  <a href="https://github.com/RafaSanCed/ImageDetection-NoNN">NonNet Object Detection 🚫🤖</a>
+
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
