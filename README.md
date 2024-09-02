@@ -1,13 +1,17 @@
 <h1 align="center">Hello, I'm Rafael 👋</h1>
 
 ![image](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/d93584f7-2649-4665-a3b2-7a2ef0ec068c)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</p>
+
 
 <p align="center">
-  <a href="http://hits.dwyl.com/RafaSanCed/RafaSanCed">
-    <img src="http://hits.dwyl.com/RafaSanCed/RafaSanCed.svg" alt="HitCount">
-  </a>
+  <img src="https://img.shields.io/badge/Contributions-12345-brightgreen" alt="GitHub Contributions">
+
   <img src="https://komarev.com/ghpvc/?username=RafaSanCed" alt="profile views">
 </p>
+
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
@@ -69,6 +73,10 @@ I'm currently engaged in:
   <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
 
 <h1 align="center">Machine Learning</h1>
