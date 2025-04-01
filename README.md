@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Rafael 👋</h1>
-<h3 align="center"><em>"The goal of numerical operations is intuition, not numbers."</em></h3>
+<h3 align="center"><em>"The Purpose of Mathematical Programming Is Insight, Not Numbers
+"</em></h3>
 
 ![image](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/d93584f7-2649-4665-a3b2-7a2ef0ec068c)
 <p align="center">
