@@ -42,16 +42,6 @@ statistical mechanics.
 - **Observability** — uptime and process monitoring, email deliverability tracking (SES), and database health dashboards for MySQL, Elasticsearch and MongoDB.
 - **Admin platform** — major contributor to the internal Django system for customers, subscriptions, CFDI invoicing and payments: role‑based admin levels, data‑source status tracking, hourly business analytics and payment validation.
 
-### Selected projects
-
-| Project | Description |
-| --- | --- |
-| [Master's Thesis](https://github.com/RafaSanCed/Tesis-Maestria) | M.Sc. in Physics research project |
-| [Neural Networks for PDEs](https://github.com/RafaSanCed/Neural-Network-Solutions-for-Function-Approximation-and-Partial-Differential-Equations) | Neural networks for function approximation and solving partial differential equations |
-| [Stellar Classification with ML](https://github.com/RafaSanCed/Clasificacion-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia) | Machine learning applied to the classification of stars |
-| [GeoGreenView](https://github.com/RafaSanCed/GeoGreenView) | Web tool that measures green‑area coverage from satellite imagery, tile by tile |
-| [Dog Breeds Embedding](https://github.com/RafaSanCed/dog-breeds-embedding) | Visualizing image embeddings of dog breeds |
-
 ### Tech stack
 
 **Languages** &nbsp;
