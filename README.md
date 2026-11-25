@@ -1,148 +1,79 @@
-<h1 align="center">Hello, I'm Rafael 👋</h1>
-<h3 align="center"><em>"The Purpose of Mathematical Programming Is Insight, Not Numbers
-"</em></h3>
-
-![image](https://github.com/RafaSanCed/RafaSanCed/assets/110432965/d93584f7-2649-4665-a3b2-7a2ef0ec068c)
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</p>
-
+<h1 align="center">Rafael Sánchez Cedillo</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-12345-brightgreen" alt="GitHub Contributions">
-
-  <img src="https://komarev.com/ghpvc/?username=RafaSanCed" alt="profile views">
+  <strong>Director of Artificial Intelligence @ BuhoLegal</strong> · Physicist (M.Sc.) · Puebla, México
 </p>
 
-
-<h2 align="center">🚀 About Me</h2>
 <p align="center">
-I am a Master in Physics passionate about Data Science and Machine Learning. I am actively working on the creation of chatbots, sales predictions, natural language processing, orthographic corrections of search queries through statistical analysis, and implementations of NLG and NLU. I aim to apply these advanced techniques to solve complex problems in the tech world.
+  <a href="https://www.linkedin.com/in/rafael-sánchez-cedillo-75a50221b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rscedillo35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h2 align="center">🛠️ Current Projects</h2>
-<p align="center">
-I'm currently engaged in:
-<ul>
-  <li>Developing chatbots that enhance user interaction.</li>
-  <li>Forecasting sales using advanced predictive analytics.</li>
-  <li>Implementing NLP techniques for orthographic corrections and understanding natural language.</li>
-  <li>Exploring NLG and NLU to create more intuitive and responsive AI systems.</li>
-</ul>
-</p>
-
-
-<h2 align="center">💡 Skills and Experience</h2>
-<ul>
-  <li><strong>Data Science:</strong> Analysis and processing of large datasets.</li>
-  <li><strong>Machine Learning:</strong>
-    <ul>
-      <li><strong>Neural Networks:</strong> Expert in the development and implementation of advanced neural network models, including deep, convolutional, and recurrent neural networks.</li>
-      <li><strong>Predictive Modeling:</strong> Designing and applying machine learning algorithms for predicting trends and behaviors in complex data.</li>
-    </ul>
-  </li>
-  <li><strong>Problem Solving:</strong> Ability to tackle and resolve complex technical challenges, particularly in modeling nonlinear and highly complex systems.</li>
-  <li><strong>Adaptability:</strong> Skilled in adjusting and evolving in the dynamic field of technology, with a particular focus on applying artificial intelligence to uncover hidden patterns in complex data.</li>
-</ul>
-
-<h2 align="center">🌟 Highlighted Projects</h2>
-<p align="center">
-  <a href="https://github.com/RafaSanCed/Tesis-Maestría">Tesis de Maestría 📓</a><br>
-  <a href="https://github.com/RafaSanCed/Clasificación-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia">Stellar Classification 💫</a><br>
-  <a href="https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms">Detection of Distraction by Electroencephalograms 🧠</a><br>
-  <a href="https://github.com/RafaSanCed/dog-breeds-embedding">Dog Breeds Embedding Visualization 🐶📊</a>
-  <a href="https://github.com/RafaSanCed/ImageDetection-NoNN">NonNet Object Detection 🚫🤖</a>
-
-</p>
-
-<h2 align="center">📫 How to Reach Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-sánchez-cedillo-75a50221b">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rscedillo35@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<p align="center"><em>"The purpose of computing is insight, not numbers." — Richard Hamming</em></p>
 
 ---
 
-<h1 align="center">🔧 Programming Languages & Databases</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-    <img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+### About
 
-</p>
+I'm a physicist working in AI and machine learning. I lead the AI team at
+BuhoLegal, a Mexican legal‑tech platform, where I build
+search and language systems over large collections of legal documents.
 
-<h1 align="center">Machine Learning</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prophet-%23D00000.svg?style=for-the-badge&logo=prophet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeuralProphet-%23FF6F00.svg?style=for-the-badge&logo=neuralprophet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rasa-%231572B6.svg?style=for-the-badge&logo=rasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p>
+My background in physics shapes how I approach ML: I care about models that are
+well understood, not just well tuned — with a particular interest in the
+connections between deep learning and statistical mechanics.
 
-<h1 align="center">Development Tools</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### What I work on
 
-<h1 align="center">Editors Systems</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-</p>
+- **Semantic & hybrid search** — dense embeddings + BM25 over 300K+ Mexican legal documents (Elasticsearch, OpenAI embeddings)
+- **LLM applications** — natural‑language → formal legal query translation, document analysis and generation
+- **Data pipelines** — large‑scale, fault‑tolerant embedding and ingestion pipelines; scraping of public judicial sources
+- **Production ML infrastructure** — Django / Flask services, Docker, GCP and AWS
 
-<hr/>
+### Selected projects
 
-<h2 align="center">Fun Fact</h2>
-<p align="center">
-While the most advanced AI models, such as GPT-3, are trained with over 175 billion parameters and can process vast amounts of data, they still fall short when compared to the human brain's capability to perform complex cognitive tasks with less energy. 
- 
-<br>
+| Project | Description |
+| --- | --- |
+| [Master's Thesis](https://github.com/RafaSanCed/Tesis-Maestria) | M.Sc. in Physics research project |
+| [Neural Networks for PDEs](https://github.com/RafaSanCed/Neural-Network-Solutions-for-Function-Approximation-and-Partial-Differential-Equations) | Neural networks for function approximation and solving partial differential equations |
+| [Neural Networks from Scratch](https://github.com/RafaSanCed/Neural-Networks-from-Scratch-Fundamental-Principles-and-Implementations) | Core principles of neural networks, implemented without frameworks |
+| [EEG Distraction Detection](https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms) | Detecting attention loss from electroencephalogram signals |
+| [Stellar Classification with ML](https://github.com/RafaSanCed/Clasificacion-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia) | Machine learning applied to the classification of stars |
+| [Object Detection without NNs](https://github.com/RafaSanCed/ImageDetection-NoNN) | Classical computer‑vision object detection, no neural networks |
+| [Dog Breeds Embedding](https://github.com/RafaSanCed/dog-breeds-embedding) | Visualizing image embeddings of dog breeds |
 
-For instance, the human brain, with approximately 86 billion neurons, can perform tasks that current AI systems find challenging, such as understanding context in conversation or recognizing faces in diverse lighting conditions, all while consuming about as much power as a light bulb (20 watts). This illustrates not only the efficiency but also the extraordinary complexity of human cognition. Isn’t that fascinating? 😆
-</p>
+### Tech stack
 
-<h2 align="center">Infinite Echoes: A Song Between Fear and Wonder</h2>
-<p align="center">
-<br>
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-The infinite, like a silent echo bouncing through the vast halls of the universe, whispers of realms so vast and enduring that they stretch beyond the confines of human understanding. This concept, so grand and boundless, stirs a mix of dread and awe within my soul. There's a fear, a quiet terror, in contemplating the eternal—knowing that the cosmos and its mysteries march on without end, indifferent to our finite existence.
-<br>
+**ML & AI** &nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-Yet, this very notion of the infinite, which might paralyze with its implacable vastness, also ignites a fiery curiosity within me. It challenges me to push further, to explore deeper, and to understand more than what meets the eye. Every moment of existential doubt sparked by the endless unknown is counterbalanced by a surge of determination to uncover the universe's hidden symphonies. This overwhelming concept not only fuels my existential musings but also inspires me to aspire to infinity in my own endeavors—to create something as enduring and monumental as the universe itself.
-<br>
+**Search & Data** &nbsp;
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Then, amidst that fear and monumental ambition, lies fascination—perhaps that is the path to follow, being... Oh, what a great song!
+**Backend & Cloud** &nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-<p align="center">
-"Rápido pasó, que no tuve el tiempo de decir<br>
-Que fuiste lo mejor que la vida tuvo para mí<br>
-Y aunque ahora mi cama sea más grande, qué más da<br>
-No hay tanta distancia de donde estoy a donde vas"
-</p>
-<p align="center">
-
-Ah, how I love that song. I also really enjoy singing, you know. It’s a delightful distraction, a melody that sails smoothly across the turbulent seas of cosmic contemplation, reminding me to find joy even amidst the vast and the infinite.
-</p>
-
-<h2 align="center">Thank you for visiting my profile!</h2>
-<p align="center">Feel free to check out my projects and connect with me.</p>
-
+**Tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white)
