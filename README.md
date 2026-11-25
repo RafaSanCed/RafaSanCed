@@ -15,32 +15,45 @@
 
 ### About
 
-Physicist working in AI and machine learning. As **Director of AI at BuhoLegal**, a Mexican
-legal‑tech platform, I design, build and run the systems behind its search, data and
-API products — from scraping and indexing court publications nationwide to semantic
-search, LLM pipelines and the cloud infrastructure that serves them.
+Physicist working in AI and machine learning. I lead AI at a legal‑tech company, where I
+design, build and run production systems end to end — from data acquisition and search
+to LLM pipelines, APIs and cloud infrastructure.
 
 My physics background shapes how I approach ML: I care about models that are well
 understood, not just well tuned — especially the connections between deep learning and
 statistical mechanics.
 
-### What I've built at BuhoLegal
+### What I do
 
-**AI & search products**
-- **AI case‑law search engine** ([tesis.buholegal.com](https://tesis.buholegal.com)) — designed and built end to end: hybrid exact + semantic search over ~312K Supreme Court theses (~1.85M vectors, Elasticsearch KNN), LLM query expansion, a weekly crawler of the official judicial gazette, and email alerts. Refactored from a monolith into a tested, CI‑backed service on Cloud Run.
-- **Judicial search API** ([api.buholegal.com](https://api.buholegal.com)) — paid REST API over tens of millions of court records, plus CURP, RFC, SAT blacklist and federal‑edict lookups. Designed the unified `/v2` search shared by the API, the website and internal tools, and rebuilt identity lookups with Playwright when upstream sites added bot protection.
-- **LLM document extraction API** — reads legal PDFs with AWS Textract and OpenAI agents, returns structured data, and bills per token.
-- **RAG over constitutional & amparo law** — legal‑aware chunking, embeddings and a documented JSON API.
+**Search & information retrieval**
+- Hybrid search systems that combine lexical and semantic retrieval (BM25 + dense vectors / KNN)
+- Embedding pipelines at the scale of millions of vectors: chunking strategies, batching, checkpointing and re‑indexing
+- Relevance tuning, query expansion and domain‑specific ranking
 
-**Data & APIs**
-- **Professional‑license API and state pipelines** — paid API (JWT, per‑user quotas) plus daily scraping jobs for state registries, indexed for search and SEO.
-- **Case‑monitoring API** — rebuilt the API lawyers use to track their cases; hardened its security and optimized its heaviest queries.
+**LLMs & NLP**
+- Retrieval‑augmented generation (RAG) over specialized document collections
+- Turning natural language into structured queries and structured data
+- Document understanding: OCR, information extraction and LLM agents over long PDFs
+- Evaluating hosted vs. local models for cost, latency and quality
 
-**Infrastructure & platform**
-- **Leading the migration of the main Elasticsearch cluster to Elastic Cloud** — wrote the proposal and built a single internal access layer with scoped keys and document‑level security.
-- **Legacy modernization** — migrated a production legal‑alerts site from Python 2 / Django 1.2 to Python 3 / Django 4.2 on Cloud Run, and moved several services to Cloud Run with CI and separate test/prod environments.
-- **Observability** — uptime and process monitoring, email deliverability tracking (SES), and database health dashboards for MySQL, Elasticsearch and MongoDB.
-- **Admin platform** — major contributor to the internal Django system for customers, subscriptions, CFDI invoicing and payments: role‑based admin levels, data‑source status tracking, hourly business analytics and payment validation.
+**Data engineering**
+- Large‑scale web scraping, including sites protected by bot detection and captchas
+- Scheduled ingestion pipelines that keep databases and search indices in sync
+- Data quality monitoring and automated reporting
+
+**Backend & APIs**
+- Designing and maintaining paid REST APIs: authentication, quotas, versioning without breaking clients
+- Application security hardening and query optimization
+- Modernizing legacy systems (Python 2 → 3, old Django → current)
+
+**Cloud & infrastructure**
+- Containerized services and scheduled jobs on GCP (Cloud Run) and AWS
+- Search‑cluster migrations with scoped access and document‑level security
+- CI/CD, separate test/prod environments, observability and alerting
+
+**Leadership**
+- Taking products from proposal and design to production and maintenance
+- Technical direction across multiple services and teams
 
 ### Tech stack
 
