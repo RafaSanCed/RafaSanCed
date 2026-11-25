@@ -25,7 +25,7 @@ connections between deep learning and statistical mechanics.
 
 ### What I work on
 
-- **Semantic & hybrid search** — dense embeddings + BM25 over 300K+ Mexican legal documents (Elasticsearch, OpenAI embeddings)
+- **Semantic & hybrid search** — dense embeddings + BM25 over large legal corpora (Elasticsearch, OpenAI embeddings)
 - **LLM applications** — natural‑language → formal legal query translation, document analysis and generation
 - **Data pipelines** — large‑scale, fault‑tolerant embedding and ingestion pipelines; scraping of public judicial sources
 - **Production ML infrastructure** — Django / Flask services, Docker, GCP and AWS
@@ -36,10 +36,8 @@ connections between deep learning and statistical mechanics.
 | --- | --- |
 | [Master's Thesis](https://github.com/RafaSanCed/Tesis-Maestria) | M.Sc. in Physics research project |
 | [Neural Networks for PDEs](https://github.com/RafaSanCed/Neural-Network-Solutions-for-Function-Approximation-and-Partial-Differential-Equations) | Neural networks for function approximation and solving partial differential equations |
-| [Neural Networks from Scratch](https://github.com/RafaSanCed/Neural-Networks-from-Scratch-Fundamental-Principles-and-Implementations) | Core principles of neural networks, implemented without frameworks |
-| [EEG Distraction Detection](https://github.com/RafaSanCed/Detection_of_distraction_by_electroencephalograms) | Detecting attention loss from electroencephalogram signals |
 | [Stellar Classification with ML](https://github.com/RafaSanCed/Clasificacion-estelar-mediante-Machine-Learning.-Un-enfoque-diferente-de-la-ciencia) | Machine learning applied to the classification of stars |
-| [Object Detection without NNs](https://github.com/RafaSanCed/ImageDetection-NoNN) | Classical computer‑vision object detection, no neural networks |
+| [GeoGreenView](https://github.com/RafaSanCed/GeoGreenView) | Web tool that measures green‑area coverage from satellite imagery, tile by tile |
 | [Dog Breeds Embedding](https://github.com/RafaSanCed/dog-breeds-embedding) | Visualizing image embeddings of dog breeds |
 
 ### Tech stack
