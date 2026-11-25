@@ -15,24 +15,32 @@
 
 ### About
 
-I'm a physicist working in AI and machine learning. As Director of AI at **BuhoLegal**,
-a Mexican legal‑tech platform, I lead the design and delivery of the company's AI products,
-from data acquisition to production systems used by lawyers across the country.
+Physicist working in AI and machine learning. As **Director of AI at BuhoLegal**, a Mexican
+legal‑tech platform, I design, build and run the systems behind its search, data and
+API products — from scraping and indexing court publications nationwide to semantic
+search, LLM pipelines and the cloud infrastructure that serves them.
 
-My background in physics shapes how I approach ML: I care about models that are
-well understood, not just well tuned — with a particular interest in the
-connections between deep learning and statistical mechanics.
+My physics background shapes how I approach ML: I care about models that are well
+understood, not just well tuned — especially the connections between deep learning and
+statistical mechanics.
 
 ### What I've built at BuhoLegal
 
-- **Semantic search engine for case law** — hybrid dense + lexical retrieval over Mexican *tesis* and *jurisprudencia*; users can search with plain language or upload a full filing (e.g. a lawsuit) and get the most relevant precedents.
-- **AI legal writing assistant** — reviews legal documents (amparos, contracts, filings) for grammar and style and suggests stronger argumentation and applicable case law.
-- **Natural‑language → legal query translation** — LLM layer that turns everyday questions into formal legal queries for the search stack.
-- **Judicial background‑check API** — automated search of court records across all 32 Mexican states, plus identity and compliance checks (CURP, RFC, SAT blacklists, federal edicts, professional licenses).
-- **Data acquisition at national scale** — scrapers and indexing pipelines for federal and state court publications, kept in sync with Elasticsearch.
-- **Case‑monitoring alerts** — matching engine that notifies users when new rulings or court activity touch their cases.
+**AI & search products**
+- **AI case‑law search engine** ([tesis.buholegal.com](https://tesis.buholegal.com)) — designed and built end to end: hybrid exact + semantic search over ~312K Supreme Court theses (~1.85M vectors, Elasticsearch KNN), LLM query expansion, a weekly crawler of the official judicial gazette, and email alerts. Refactored from a monolith into a tested, CI‑backed service on Cloud Run.
+- **Judicial search API** ([api.buholegal.com](https://api.buholegal.com)) — paid REST API over tens of millions of court records, plus CURP, RFC, SAT blacklist and federal‑edict lookups. Designed the unified `/v2` search shared by the API, the website and internal tools, and rebuilt identity lookups with Playwright when upstream sites added bot protection.
+- **LLM document extraction API** — reads legal PDFs with AWS Textract and OpenAI agents, returns structured data, and bills per token.
+- **RAG over constitutional & amparo law** — legal‑aware chunking, embeddings and a documented JSON API.
 
-**Stack:** Python · Elasticsearch · OpenAI / LLMs · Django · Flask · MySQL · Docker · GCP · AWS
+**Data & APIs**
+- **Professional‑license API and state pipelines** — paid API (JWT, per‑user quotas) plus daily scraping jobs for state registries, indexed for search and SEO.
+- **Case‑monitoring API** — rebuilt the API lawyers use to track their cases; hardened its security and optimized its heaviest queries.
+
+**Infrastructure & platform**
+- **Leading the migration of the main Elasticsearch cluster to Elastic Cloud** — wrote the proposal and built a single internal access layer with scoped keys and document‑level security.
+- **Legacy modernization** — migrated a production legal‑alerts site from Python 2 / Django 1.2 to Python 3 / Django 4.2 on Cloud Run, and moved several services to Cloud Run with CI and separate test/prod environments.
+- **Observability** — uptime and process monitoring, email deliverability tracking (SES), and database health dashboards for MySQL, Elasticsearch and MongoDB.
+- **Admin platform** — major contributor to the internal Django system for customers, subscriptions, CFDI invoicing and payments: role‑based admin levels, data‑source status tracking, hourly business analytics and payment validation.
 
 ### Selected projects
 
@@ -63,6 +71,7 @@ connections between deep learning and statistical mechanics.
 
 **Search & Data** &nbsp;
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Elastic Cloud](https://img.shields.io/badge/Elastic_Cloud-005571?style=flat-square&logo=elasticcloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -70,12 +79,16 @@ connections between deep learning and statistical mechanics.
 **Backend & Cloud** &nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Tools** &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white)
