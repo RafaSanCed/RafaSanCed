@@ -15,20 +15,24 @@
 
 ### About
 
-I'm a physicist working in AI and machine learning. I lead the AI team at
-BuhoLegal, a Mexican legal‑tech platform, where I build
-search and language systems over large collections of legal documents.
+I'm a physicist working in AI and machine learning. As Director of AI at **BuhoLegal**,
+a Mexican legal‑tech platform, I lead the design and delivery of the company's AI products,
+from data acquisition to production systems used by lawyers across the country.
 
 My background in physics shapes how I approach ML: I care about models that are
 well understood, not just well tuned — with a particular interest in the
 connections between deep learning and statistical mechanics.
 
-### What I work on
+### What I've built at BuhoLegal
 
-- **Semantic & hybrid search** — dense embeddings + BM25 over large legal corpora (Elasticsearch, OpenAI embeddings)
-- **LLM applications** — natural‑language → formal legal query translation, document analysis and generation
-- **Data pipelines** — large‑scale, fault‑tolerant embedding and ingestion pipelines; scraping of public judicial sources
-- **Production ML infrastructure** — Django / Flask services, Docker, GCP and AWS
+- **Semantic search engine for case law** — hybrid dense + lexical retrieval over Mexican *tesis* and *jurisprudencia*; users can search with plain language or upload a full filing (e.g. a lawsuit) and get the most relevant precedents.
+- **AI legal writing assistant** — reviews legal documents (amparos, contracts, filings) for grammar and style and suggests stronger argumentation and applicable case law.
+- **Natural‑language → legal query translation** — LLM layer that turns everyday questions into formal legal queries for the search stack.
+- **Judicial background‑check API** — automated search of court records across all 32 Mexican states, plus identity and compliance checks (CURP, RFC, SAT blacklists, federal edicts, professional licenses).
+- **Data acquisition at national scale** — scrapers and indexing pipelines for federal and state court publications, kept in sync with Elasticsearch.
+- **Case‑monitoring alerts** — matching engine that notifies users when new rulings or court activity touch their cases.
+
+**Stack:** Python · Elasticsearch · OpenAI / LLMs · Django · Flask · MySQL · Docker · GCP · AWS
 
 ### Selected projects
 
